@@ -1,11 +1,34 @@
-# Personal LLM Assistant
+## 📦 Installation & Setup
+```bash
+1️⃣ Clone the repository
+git clone https://github.com/<your-username>/personal-llm-assistant.git
+cd personal-llm-assistant
 
-A personalized AI assistant built using Python, OpenAI API, CrewAI, and Gradio.  
-Supports PDF parsing, memory, notifications, email capture, and tool-calling.
+2️⃣ Create a virtual environment
 
-# How to Run
+3️⃣ Activate the virtual environment
+
+4️⃣ Install dependencies
 pip install -r requirements.txt
-python app.py
+🔑 Environment Variables
+You need a .env file in the root directory to store your API keys.
 
-# Demo
-https://huggingface.co/spaces/SaiAditya/carrer_conversation
+5️⃣ Create a .env file
+Inside the project folder:
+
+6️⃣ Add the following variables:
+
+OPENAI_API_KEY=your_openai_api_key_here
+PUSHOVER_TOKEN=your_pushover_app_token
+PUSHOVER_USER=your_pushover_user_key
+(Add any other keys or secrets your project uses.)
+
+▶️ Running the App
+Once the environment is ready:
+
+python app.py
+If using a Gradio demo:
+
+python gradio_app.py
+The Gradio interface will appear with a localhost URL in your terminal.
+
