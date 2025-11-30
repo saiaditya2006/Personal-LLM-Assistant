@@ -1,6 +1,11 @@
----
-title: carrer_convo_gemini
-app_file: app.py
-sdk: gradio
-sdk_version: 5.29.0
----
+# Personal LLM Assistant
+
+A personalized AI assistant built using Python, OpenAI API, CrewAI, and Gradio.  
+Supports PDF parsing, memory, notifications, email capture, and tool-calling.
+
+# How to Run
+pip install -r requirements.txt
+python app.py
+
+# Demo
+https://huggingface.co/spaces/SaiAditya/carrer_conversation
