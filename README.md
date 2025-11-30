@@ -1,4 +1,9 @@
-## 📦 Installation & Setup
+## Personal LLM Assistant
+
+A personalized AI assistant built using Python, OpenAI API, CrewAI, and Gradio.  
+Supports PDF parsing, memory, notifications, email capture, and tool-calling.
+
+# 📦 Installation & Setup
 ```bash
 1️⃣ Clone the repository
 git clone https://github.com/<your-username>/personal-llm-assistant.git
