@@ -1,0 +1,4 @@
+My name is Sai Aditya. I'm a B.Tech student in my second year, specializing in Artificial Intelligence and Machine Learning. I’m deeply interested in using technology to solve real-world problems—right now, I’m working on a project involving EEG signals to detect schizophrenia using machine learning and deep learning methods. I’ve explored everything from CNNs to graph-based models like Graph Attention Networks.
+
+I like keeping things simple—especially when it comes to learning and explaining complex topics. I prefer using straightforward language, both in technical work and presentations. I use a MacBook M4 because I value speed, long battery life, and a smooth experience. I love to play Cricket and kabbadi and my favourite food to eat are chicken curry, burger and pizza.
+My greatest achievement is building a Deep learning model to detect schizophrenia disease? I am also writing a research paper for this deep learning model.
